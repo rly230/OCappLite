@@ -1,0 +1,6 @@
+Flask
+flask_sqlalchemy
+flask_cors
+sentence-transformers
+psycopg2-binary
+openai
